@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Yesh Jaiswal, Software Engineer / Developer
-- 👀 I’m interested in DSA , developing and writing codes that matters for open source.
+- 👀 I’m interested in DSA , developing and writing codes that matters for open source andd exciting softwares.
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on free projects for social help, FREELANCING etc
 - 📫 How to reach me ... Email: yash.jaiswal121@gmail.com or DM me @ LinkedIn
 - LinkedIn: www.linkedin.com/in/yesh-jaiswal-48aa7b103
+- Leetcode: https://leetcode.com/YESHJAISWAL/
 
 
 <!---
